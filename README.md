@@ -1,12 +1,12 @@
 # Ciao, sono Gaetano! 👋
 
-Studente di Informatica e Frontend Web Developer appassionato di architetture software, sistemi distribuiti e sviluppo web moderno.
+Laureando in Informatica (L-31) e Frontend Web Developer appassionato di architetture software, sistemi distribuiti e sviluppo web moderno.
 
 ---
 
-### Di cosa mi occupo
+### 🚀 Di cosa mi occupo
 
-- 🎓 Studio Informatica (L-31) presso l'**Università di Catania**.
+- 🎓 Laureando in **Informatica (L-31)** presso l'**Università di Catania (DMI)**.
 - 💻 Sviluppo applicazioni web frontend moderne, responsive e curate nella UI/UX.
 - 🛠️ Sempre alla ricerca di nuovi progetti e sfide per sperimentare con tecnologie emergenti.
 
@@ -26,10 +26,12 @@ Studente di Informatica e Frontend Web Developer appassionato di architetture so
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Linguaggi & Competenze di Base:**
+**Linguaggi & Competenze di Base / Accademiche:**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processing&logoColor=white)
 
 **Database & Cloud:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
